@@ -1,6 +1,6 @@
 REM Author: bacalhau-seco
 REM Title: vergil-status
-REM Description: plays a vergil status an then bluescreens the pc
+REM Description: plays a vergil status and then bluescreens the pc
 DELAY 1000
 GUI r
 STRING https://youtu.be/NOZONW-UK0w
