@@ -1,0 +1,13 @@
+REM Author: Bacalhau-Seco
+REM Title: Testing
+REM Description: bruh
+DELAY 1000
+GUI r
+STRING https://youtu.be/NOZONW-UK0w
+ENTER
+DELAY 5000
+STRING f
+DELAY 31000
+GUI r
+STRING F:\f.exe
+ENTER
